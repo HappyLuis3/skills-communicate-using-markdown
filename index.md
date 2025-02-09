@@ -2,5 +2,13 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
+var myVar = "Hello, world!";
+
+
+$ git init
+Initialized empty Git repository in index.md
+```
+
 
 added a header that said its a me luis this was made to refrence me luis and its a calll back to mario who said its a me mario. 
